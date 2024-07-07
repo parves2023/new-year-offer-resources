@@ -157,3 +157,75 @@ body{
     font-weight: bold;
     margin-top: 48px;
 }
+
+
+/* place ends */
+
+.comming-soon{
+    display: flex;
+    height: 465px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 120px;
+
+}
+.comming-soon .textarea{
+    width: 395px;
+    height: 255px;
+    margin-left: 10px;
+}
+.comming-soon .textarea .firstp{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+}
+.comming-soon .textarea h1{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: 'Merriweather', serif !important;
+    
+    
+}
+.comming-soon .textarea .lastp{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.6);
+
+}
+
+.comming-soon .image-box{
+    width: 463px;
+    height: 463px;
+    border: 15px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+
+.comming-soon .textandimg{
+    width: 276px;
+    height: 270px;
+}
+.comming-soon .textandimg h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF0000;
+    margin: 0;
+}
+.comming-soon .textandimg h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.comming-soon .textandimg p{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.6);
+}
+.comming-soon .textandimg img{
+    margin-top: 35px;
+}
