@@ -229,3 +229,59 @@ body{
 .comming-soon .textandimg img{
     margin-top: 35px;
 }
+
+/* .comming-soon ends */
+
+.holidays{
+    height: 950px;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-bottom: 120px;
+ 
+}
+.holidays .textarea{
+    width: 1068px;
+    height: 260px;
+    margin: 0 auto;
+}
+.holidays .textarea .firstp{
+    font-size: 24px;
+    font-weight: 500;
+}
+.holidays .textarea h1 span{
+    color: #FF0000;
+}
+.holidays .textarea h1{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: 'Merriweather', serif !important;
+    margin: 0;
+}
+.holidays .textarea .lastp{
+    font-size: 20px;
+    font-weight: 500;
+    color:rgba(7, 2, 17, 0.6);
+    line-height: 32px;
+}
+
+.holidays .imagesarea{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 0 auto 60px;
+}
+.holidays .imagesarea .img2{
+    width: 250px;
+    height: 250px;
+
+}
+.holidays .imagesarea .img1{
+    width: 600px;
+    height: 500px;
+
+}
