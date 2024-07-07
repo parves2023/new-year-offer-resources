@@ -3,7 +3,6 @@
 
 .inter{
     font-family: 'Inter', sans-serif;
-    color: white;
 }
 
 .merriweather{
@@ -46,3 +45,37 @@ body{
   #hero  .title{
     font-size: 72px;
   }
+
+  /* OFFER section start */
+
+  .offer{
+    margin: 120px 0;
+    display: flex;
+    justify-content: center;
+  }
+  .offer .textandimg{
+    width: 800px;
+    height: 810px;
+    text-align: center;
+  }
+  .offer .textandimg h1{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+  }
+  .offer .textandimg p{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+}
+.offer .textandimg h3{
+    font-size: 48px;
+    font-weight: bold;
+}
+  .offer .textandimg img{       
+    width: 100%;
+  }
+
+  /* offer sec end */
+
+  
